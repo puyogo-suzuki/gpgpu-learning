@@ -2,7 +2,7 @@
 GPGPUを苦しんで覚える
 
 # ディレクトリ構成について
-`sprinf(solfile, "chap%d/GPGPU%d/GPGPU%d.sln", chapter_number)`にVisual Studio用のソリューションファイルがあり，
+`sprinf(solfile, "chap%d/GPGPU%d/GPGPU%d.sln", chapter_number)`にVisual Studio用のソリューションファイルがあり，  
 Visual Studio Codeでは，`sprinf(code_dir, "chap%d", chapter_number)`を開くと実行ができます．
 
 # Table of Contents

@@ -85,7 +85,7 @@ void S4Parallel()
 }
 
 // S2HelloWorldを呼び出します．
-//S2HelloWorld();
+S2HelloWorld();
 // 2節以降のコードを実行するときは，S2HelloWorldをコメント化して，次のコメントに示すように，呼び出しをします．
-//S3vsCPU();
-S4Parallel();
+// S3vsCPU();
+// S4Parallel();
