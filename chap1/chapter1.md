@@ -96,8 +96,10 @@ dotnet new console
 
 つぎに，必要なライブラリであるILGPUを導入します．  
 ```sh
-dotnet nuget add ILGPU
+dotnet nuget add ILGPU --version "1.0.0-rc3"
 ```
+（バージョン1.0.0がリリースされれば，--version以降は不要です．）
+
 
 そして，Visual Studio Codeで開き，デバッグのための準備をしましょう．
 ```sh
