@@ -164,5 +164,5 @@ Visual Studio Codeでは，
 
 ## 1.5. Gitリポジトリのプロジェクトを開く
 Gitリポジトリのプロジェクトを開くには，
-Visual Studioは，csprojファイルをダブルクリックで開き，  
+Visual Studioは，slnファイルをダブルクリックで開き，  
 Visual Studio Codeは，chapほにゃららディレクトリをVisual Studio Codeで開きます．
