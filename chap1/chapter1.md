@@ -66,12 +66,6 @@ sudo snap alias dotnet-sdk.dotnet dotnet
 ```
 により，エイリアスを設定します
 
-### 1.2.4. brew cask(macOS)
-```sh
-brew install dotnet
-```
-によって，簡単にインストールできます．
-
 ## 1.3. プロジェクトを作ってみる
 基本的にプロジェクトをこのリポジトリに用意していますが，簡単に作り方を説明します．
 
@@ -96,7 +90,7 @@ dotnet new console
 
 つぎに，必要なライブラリであるILGPUを導入します．  
 ```sh
-dotnet nuget add ILGPU --version "1.0.0-rc3"
+dotnet nuget add ILGPU --version "1.0.0"
 ```
 （バージョン1.0.0がリリースされれば，--version以降は不要です．）
 

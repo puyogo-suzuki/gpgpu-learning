@@ -187,4 +187,4 @@ void S4Projection()
     SaveImageColor("mct-proj.jpg", outArray.GetAsArray2D());
 }
 
-S4Projection();
+S1ArrayFirstStep();
